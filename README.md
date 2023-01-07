@@ -1,4 +1,4 @@
-# Task 1 - Image Gallery 
+# 01-gallery.html - Image Gallery 
 Created a gallery with the ability to click on its items and view full size images in a modal window.
 
 ## Technologies 
