@@ -6,8 +6,8 @@ Project used
 * basicLightBox 
 
 ### Steps 
-* Creating and rendering markup from the ```galleryItems``` data array and provided gallery item template. 
+* Created and rendered markup from the ```galleryItems``` data array and provided gallery item template. 
 * Implemented delegation to ```div.gallery``` and getting the ```url``` of a large image. 
-* Adding the script and styles of the modal window library basicLightBox. Used the jsdelivrCDN service to add links to minified. ```.min``` library files to the project. 
+* Added the script and styles of the modal window library basicLightBox. Used the jsdelivrCDN service to add links to minified. ```.min``` library files to the project. 
 * Opened a modal window by clicking on a gallery item. 
 * Replaced the value of the ```src``` attribute of the ```<img>``` element in a modal window before opening. 
